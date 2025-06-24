@@ -1,6 +1,9 @@
 # Bellabeat Case Study: Smart Wellness Technology Data Analysis
 ---
-
+## Bellabeat Case Study: 
+- <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Bellabeat%20Case%20Study.pdf">Presentation</a>
+## Scope of Work: 
+- <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/S-O-W-Bellabeat%20Case%20Study%20(1).pdf">S-O-W Link</a>
 ## Business Questions
 - **"What are trends in smart device usage?"**
 - **"How could these trends apply to Bellabeat customers?"**
@@ -115,7 +118,8 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 ---
 
 ## Data Visualizations & Insights
-### Visualization <a href="">Presentation</a>
+### Visualization 
+- <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Bellabeat%20Case%20Study.pdf">Presentation</a>
 ### 🚶‍♀️ Steps: Weekday vs. Weekend
 | Day Type | Average Steps |
 |----------|---------------|
