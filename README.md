@@ -132,7 +132,7 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 ## Data Visualizations & Insights
 ### Visualization 
-- <a href="">Presentation</a>
+- <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Bellabeat%20Case%20Study.pdf">Presentation</a>
 ### 🚶‍♀️ Steps: Weekday vs. Weekend
 ![Average Steps_ Weekday vs Weekend](https://github.com/user-attachments/assets/73717055-00c9-4947-8850-bed870d8ae1c)
 
@@ -194,8 +194,6 @@ This analysis demonstrates how data-driven insights can directly inform product 
 
 **Disclaimer**: Findings based on 30 users from 2016 data. Trends may differ for larger/current populations.
 
-# Presentation
-![1](https://github.com/user-attachments/assets/40e3aacd-16fb-4237-8baa-82bd4d680e94)
 
 
 
