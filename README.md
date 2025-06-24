@@ -1,5 +1,4 @@
 # Bellabeat Case Study: Smart Wellness Technology Data Analysis
-
 ---
 
 ## Business Questions
