@@ -28,8 +28,9 @@
 
 ## 📊 Data Source Description
 
-**Dataset**: FitBit Fitness Tracker Data from Kaggle (CC0 Public Domain)
-**Scope**: Daily activity, steps, heart rate, and sleep data from 30 users
+- **Dataset**: FitBit Fitness Tracker Data from Kaggle (CC0 Public Domain)
+- **Scope**: Daily activity, steps, heart rate, and sleep data from 30 users
+  
 ### ⚠️ Limitations
 - Small sample size (only 30 people)
 - Outdated data (from 2016)
