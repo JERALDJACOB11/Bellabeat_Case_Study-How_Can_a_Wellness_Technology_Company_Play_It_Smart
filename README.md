@@ -63,6 +63,7 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 ## Key Analytics Findings
 
 ### 🚶‍♀️ Activity Analysis (Steps)
+- **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Average%20Steps_%20Weekday%20vs%20Weekend.pdf">Average daily steps Visualization</a>
 
 | Metric | Value |
 |--------|-------|
@@ -75,6 +76,7 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 **Key Insight**: People walk 225 more steps on weekends compared to weekdays.
 
 ### 😴 Sleep Analysis
+- **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Average%20Sleep%20Duration%20by%20Day%20Type.pdf">Average daily sleep Duration Visualization</a>
 
 | Metric | Value |
 |--------|-------|
@@ -90,6 +92,7 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 ### 1. Sleep Efficiency Analysis
 **Question**: Do people spend more time actually sleeping vs. lying in bed on weekends?
+- **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Sleep%20Efficiency_%20Weekday%20vs%20Weekend.pdf">Sleep Efficiency Analysis Visualization</a>
 
 | Day Type | Sleep Efficiency |
 |----------|------------------|
@@ -100,6 +103,7 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 ### 2. Sleep vs. Activity Correlation
 **Question**: Do people who walk more sleep better?
+- **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Sleep%20Duration_%20Low%20vs%20High%20Activity.pdf"> Sleep vs. Activity Correlation Visualization</a>
 
 | Step Group | Average Sleep Minutes |
 |------------|----------------------|
@@ -108,8 +112,9 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 **Finding**: Users who walk 10,000+ steps sleep **47 minutes longer** on average.
 
-### 3. User Behavioral Patterns
+### 3. User Trend Patterns
 **Question**: Do all users sleep more on weekends?
+- **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/User%20Sleep%20Trend%20Patterns.pdf"> User Trend Patterns Visualization</a>
 
 | Pattern | Number of Users |
 |---------|-----------------|
