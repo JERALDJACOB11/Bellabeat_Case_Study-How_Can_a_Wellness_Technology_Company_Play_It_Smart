@@ -58,10 +58,10 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 | Metric | Value |
 |--------|-------|
-| **Average daily steps (total)** | 17,221.95 |
-| **Weekday average** | 8,498.43 |
-| **Weekend average** | 8,723.52 |
-| **Difference** | 225.09 more steps on weekends |
+| **Average daily steps (total)** | 17,221 |
+| **Weekday average** | 8,498 |
+| **Weekend average** | 8,723 |
+| **Difference** | 225 more steps on weekends |
 | **Percentage difference** | 2.64% |
 
 **Key Insight**: People walk 225 more steps on weekends compared to weekdays.
@@ -70,10 +70,10 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 | Metric | Value |
 |--------|-------|
-| **Average daily sleep (total minutes)** | 894.75 |
-| **Weekday average** | 425.71 minutes (7.1 hours) |
-| **Weekend average** | 469.04 minutes (7.8 hours) |
-| **Difference** | 43.33 minutes more on weekends |
+| **Average daily sleep (total minutes)** | 894 |
+| **Weekday average** | 425 minutes (7.1 hours) |
+| **Weekend average** | 469 minutes (7.8 hours) |
+| **Difference** | 43 minutes more on weekends |
 | **Percentage difference** | 10.17% |
 
 **Key Insight**: People sleep 43 minutes longer on weekends.
@@ -95,8 +95,8 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 | Step Group | Average Sleep Minutes |
 |------------|----------------------|
-| < 10,000 Steps | 409.06 |
-| ≥ 10,000 Steps | 456.37 |
+| < 10,000 Steps | 409 |
+| ≥ 10,000 Steps | 456 |
 
 **Finding**: Users who walk 10,000+ steps sleep **47 minutes longer** on average.
 
@@ -105,10 +105,10 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 | Pattern | Number of Users |
 |---------|-----------------|
-| Sleeps more on weekends | 27 (90%) |
-| Sleeps more on weekdays ("Night owls") | 3 (10%) |
+| Sleeps more on weekends |  90% |
+| Sleeps more on weekdays ("Night owls") |  10% |
 
-**Finding**: 75% of users follow typical weekend sleep patterns, but 25% are "night owls" with different behaviors.
+**Finding**: 90% of users follow typical weekend sleep patterns, but 10% are "night owls" with different behaviors.
 
 ---
 
@@ -117,24 +117,24 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 ### 🚶‍♀️ Steps: Weekday vs. Weekend
 | Day Type | Average Steps |
 |----------|---------------|
-| Weekday | 8,498.43 |
-| Weekend | 8,723.52 |
+| Weekday | 8,498 |
+| Weekend | 8,723 |
 
 **Insight**: Users walk 225 more steps on weekends. Bellabeat can encourage weekday movement with motivational alerts like *"Let's catch up to your weekend stride!"*
 
 ### 😴 Sleep: Weekday vs. Weekend
 | Day Type | Avg Sleep (Minutes) |
 |----------|---------------------|
-| Weekday | 425.71 |
-| Weekend | 469.04 |
+| Weekday | 425 |
+| Weekend | 469 |
 
 **Insight**: Users sleep 43 minutes longer on weekends. Bellabeat could prompt users with friendly *"Time to wind down"* bedtime reminders on weeknights.
 
 #### 🎯 Activity Impact on Sleep
 | Step Group | Avg Sleep Minutes |
 |------------|-------------------|
-| < 10,000 Steps | 409.06 |
-| ≥ 10,000 Steps | 456.37 |
+| < 10,000 Steps | 409 |
+| ≥ 10,000 Steps | 456 |
 
 **Insight**: Users who walk 10,000+ steps sleep 47 minutes more. Bellabeat can link daily steps to sleep quality, showing how **movement = better rest**.
 
