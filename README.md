@@ -64,7 +64,7 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 | **Difference** | 225 more steps on weekends |
 | **Percentage difference** | 2.64% |
 
-**Key Insight**: People walk 225 more steps on weekends compared to weekdays.
+*Key Insight*: People walk 225 more steps on weekends compared to weekdays.
 
 ### 😴 Sleep Analysis
 
