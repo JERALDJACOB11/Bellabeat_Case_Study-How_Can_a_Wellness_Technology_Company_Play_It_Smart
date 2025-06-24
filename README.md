@@ -63,8 +63,6 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 ### 🚶‍♀️ Activity Analysis (Steps)
 - **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Average%20Steps_%20Weekday%20vs%20Weekend.pdf">Average daily steps Visualization</a>
-![Average Steps_ Weekday vs Weekend](https://github.com/user-attachments/assets/73717055-00c9-4947-8850-bed870d8ae1c)
-
 
 | Metric | Value |
 |--------|-------|
@@ -78,7 +76,6 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 ### 😴 Sleep Analysis
 - **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Average%20Sleep%20Duration%20by%20Day%20Type.pdf">Average daily sleep Duration Visualization</a>
-![Average Sleep Duration by Day Type](https://github.com/user-attachments/assets/f43d2e66-493c-40cb-b456-3c2ee86bf11b)
 
 | Metric | Value |
 |--------|-------|
@@ -135,8 +132,10 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 ## Data Visualizations & Insights
 ### Visualization 
-- <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Bellabeat%20Case%20Study.pdf">Presentation</a>
+- <a href="">Presentation</a>
 ### 🚶‍♀️ Steps: Weekday vs. Weekend
+![Average Steps_ Weekday vs Weekend](https://github.com/user-attachments/assets/73717055-00c9-4947-8850-bed870d8ae1c)
+
 | Day Type | Average Steps |
 |----------|---------------|
 | Weekday | 8,498 |
@@ -145,6 +144,8 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 **Insight**: Users walk 225 more steps on weekends. Bellabeat can encourage weekday movement with motivational alerts like *"Let's catch up to your weekend stride!"*
 
 ### 😴 Sleep: Weekday vs. Weekend
+![Average Sleep Duration by Day Type](https://github.com/user-attachments/assets/f43d2e66-493c-40cb-b456-3c2ee86bf11b)
+
 | Day Type | Avg Sleep (Minutes) |
 |----------|---------------------|
 | Weekday | 425 |
@@ -153,6 +154,9 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 **Insight**: Users sleep 43 minutes longer on weekends. Bellabeat could prompt users with friendly *"Time to wind down"* bedtime reminders on weeknights.
 
 #### 🎯 Activity Impact on Sleep
+![Sleep Duration_ Low vs High Activity](https://github.com/user-attachments/assets/9fd55318-46e6-4848-8fb6-67652b763e70)
+![1](https://github.com/user-attachments/assets/ccb4510e-8548-4635-8d6b-12c2f7ffed17)
+
 | Step Group | Avg Sleep Minutes |
 |------------|-------------------|
 | < 10,000 Steps | 409 |
