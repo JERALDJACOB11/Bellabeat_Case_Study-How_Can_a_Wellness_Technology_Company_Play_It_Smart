@@ -63,6 +63,8 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 ### 🚶‍♀️ Activity Analysis (Steps)
 - **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Average%20Steps_%20Weekday%20vs%20Weekend.pdf">Average daily steps Visualization</a>
+![Average Steps_ Weekday vs Weekend](https://github.com/user-attachments/assets/73717055-00c9-4947-8850-bed870d8ae1c)
+
 
 | Metric | Value |
 |--------|-------|
@@ -76,6 +78,7 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 
 ### 😴 Sleep Analysis
 - **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Average%20Sleep%20Duration%20by%20Day%20Type.pdf">Average daily sleep Duration Visualization</a>
+![Average Sleep Duration by Day Type](https://github.com/user-attachments/assets/f43d2e66-493c-40cb-b456-3c2ee86bf11b)
 
 | Metric | Value |
 |--------|-------|
@@ -92,6 +95,8 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 ### 1. Sleep Efficiency Analysis
 **Question**: Do people spend more time actually sleeping vs. lying in bed on weekends?
 - **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Sleep%20Efficiency_%20Weekday%20vs%20Weekend.pdf">Sleep Efficiency Analysis Visualization</a>
+![Sleep Efficiency_ Weekday vs Weekend](https://github.com/user-attachments/assets/9408b193-bfc7-4055-89e9-8170f3da2952)
+
 
 | Day Type | Sleep Efficiency |
 |----------|------------------|
@@ -103,7 +108,7 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 ### 2. Sleep vs. Activity Correlation
 **Question**: Do people who walk more sleep better?
 - **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Sleep%20Duration_%20Low%20vs%20High%20Activity.pdf"> Sleep vs. Activity Correlation Visualization</a>
-![1](https://github.com/user-attachments/assets/bd169a47-e839-4883-be10-3f391ddc6d62)
+![Sleep Duration_ Low vs High Activity](https://github.com/user-attachments/assets/9fd55318-46e6-4848-8fb6-67652b763e70)
 
 
 | Step Group | Average Sleep Minutes |
@@ -116,6 +121,8 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 ### 3. User Trend Patterns
 **Question**: Do all users sleep more on weekends?
 - **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/User%20Sleep%20Trend%20Patterns.pdf"> User Trend Patterns Visualization</a>
+![User Sleep Trend Patterns](https://github.com/user-attachments/assets/86e4f624-75b9-4b22-ab2d-6d6ded0cf8e6)
+
 
 | Pattern | Number of Users |
 |---------|-----------------|
@@ -182,3 +189,9 @@ Bellabeat could enhance user engagement through:
 This analysis demonstrates how data-driven insights can directly inform product development and marketing strategy for wellness technology companies, specifically targeting women's health and wellness optimization.
 
 **Disclaimer**: Findings based on 30 users from 2016 data. Trends may differ for larger/current populations.
+
+# Presentation
+![1](https://github.com/user-attachments/assets/40e3aacd-16fb-4237-8baa-82bd4d680e94)
+
+
+
