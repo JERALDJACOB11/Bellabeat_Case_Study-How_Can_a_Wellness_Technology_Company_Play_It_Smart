@@ -19,7 +19,6 @@
 
 ## Bellabeat Case Study: 
 - <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Bellabeat%20Case%20Study.pdf">Presentation</a>
-
 ---
 
 ## Data Quality Assessment (ROCCC Framework)
@@ -104,6 +103,8 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 ### 2. Sleep vs. Activity Correlation
 **Question**: Do people who walk more sleep better?
 - **Visualization:** <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Sleep%20Duration_%20Low%20vs%20High%20Activity.pdf"> Sleep vs. Activity Correlation Visualization</a>
+![1](https://github.com/user-attachments/assets/bd169a47-e839-4883-be10-3f391ddc6d62)
+
 
 | Step Group | Average Sleep Minutes |
 |------------|----------------------|
