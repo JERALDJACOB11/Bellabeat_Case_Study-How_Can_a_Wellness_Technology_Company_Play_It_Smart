@@ -30,7 +30,7 @@
 
 - **Dataset**: FitBit Fitness Tracker Data from Kaggle (CC0 Public Domain)
 - **Scope**: Daily activity, steps, heart rate, and sleep data from 30 users
-- **Dataset used**:<a herf= "https://www.kaggle.com/datasets/arashnic/fitbit">Direct Link</a>
+- **Dataset used**: <a herf= "https://www.kaggle.com/datasets/arashnic/fitbit">Direct Link</a>
   
 ### ⚠️ Limitations
 - Small sample size (only 30 people)
