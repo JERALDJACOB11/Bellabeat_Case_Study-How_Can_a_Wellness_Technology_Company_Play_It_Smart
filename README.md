@@ -1,9 +1,6 @@
 # Bellabeat Case Study: Smart Wellness Technology Data Analysis
 ---
-## Bellabeat Case Study: 
-- <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Bellabeat%20Case%20Study.pdf">Presentation</a>
-## Scope of Work: 
-- <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/S-O-W-Bellabeat%20Case%20Study%20(1).pdf">S-O-W Link</a>
+
 ## Business Questions
 - **"What are trends in smart device usage?"**
 - **"How could these trends apply to Bellabeat customers?"**
@@ -14,8 +11,14 @@
 - How can Bellabeat app remind women to wind down earlier and walk more steps by monitoring user activity?
 - How can Bellabeat run social media ads addressing sleep and walk cycles with messaging like "Your holistic women wellness app"?
 
+## Scope of Work: 
+- <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/S-O-W-Bellabeat%20Case%20Study%20(1).pdf">S-O-W Link</a>
+
 ## 📝 Business Task Statement
 > "Analyze FitBit data to find trends in user activity, sleep, and heart rate. Then, use these trends to suggest marketing strategies for the Bellabeat app, helping women improve their wellness."
+
+## Bellabeat Case Study: 
+- <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Bellabeat%20Case%20Study.pdf">Presentation</a>
 
 ---
 
