@@ -1,5 +1,6 @@
 # Bellabeat Case Study: Smart Wellness Technology Data Analysis
 
+---
 
 ## Business Questions
 - **"What are trends in smart device usage?"**
