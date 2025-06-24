@@ -160,7 +160,7 @@ Bellabeat could enhance user engagement through:
 ### Final Tranfomed Data
 - **Activity Data**: <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Bellabeat_Case_Study_Data%20-%20dailyActivity_merged.csv">Activity Data Link</a>
 - **Sleep Data**: <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Bellabeat_Case_Study_Data%20-%20sleepDay_merged.csv">Sleep Data Link</a>
-- **Visual Insight Data**: <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Bellabeat_Case_Study_Data%20-%20sleepDay_merged.csv">Visual Insight</a>
+- **Visual Insight Data**: <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Bellabeat_Case_Study_Data%20-%20visual_insight.csv">Visual Insight</a>
 - **Visualization Data**: <a href="https://github.com/JERALDJACOB11/Bellabeat_Case_Study-How_Can_a_Wellness_Technology_Company_Play_It_Smart/blob/main/Bellabeat_Case_Study_Data%20-%20visualization.csv">Visualization</a>
 ---
 
