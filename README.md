@@ -27,6 +27,9 @@
 | **Cited** | ✅ | CC0 Public Domain dataset via Kaggle |
 
 ## 📊 Data Source Description
+**Dataset Used**:
+Direct Link - <a href="https://www.kaggle.com/datasets/arashnic/fitbit">
+Repositories Link -
 **Dataset**: FitBit Fitness Tracker Data from Kaggle (CC0 Public Domain)
 **Scope**: Daily activity, steps, heart rate, and sleep data from 30 users
 
@@ -64,7 +67,7 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 | **Difference** | 225 more steps on weekends |
 | **Percentage difference** | 2.64% |
 
-**Key Insight***: People walk 225 more steps on weekends compared to weekdays.
+**Key Insight**: People walk 225 more steps on weekends compared to weekdays.
 
 ### 😴 Sleep Analysis
 
@@ -76,7 +79,7 @@ Data cleaning involved removing duplicates, formatting, filtering, validating da
 | **Difference** | 43 minutes more on weekends |
 | **Percentage difference** | 10.17% |
 
-**Key Insight***: People sleep 43 minutes longer on weekends.
+**Key Insight**: People sleep 43 minutes longer on weekends.
 
 ## 🔬 Advanced Analysis
 
